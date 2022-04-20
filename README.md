@@ -1,4 +1,4 @@
-# 🎧 Task App Landing Page
+# 📝 Task App Landing Page
 
 - First completed project!
 - 1 landing page.
